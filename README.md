@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/Nnando0220/WebAnimal/blob/master/public/images/logo.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/Nnando0220/Web-Animal/blob/main/public/images/logo.png" width="400" alt="Laravel Logo"></a></p>
 
 ## Sobre
 
